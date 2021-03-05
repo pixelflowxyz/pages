@@ -1,0 +1,63 @@
+title: pixelflow
+baseURL: /
+params:
+  color_scheme: light
+  accent_color: red
+  header:
+    title: pixelflow
+    has_nav: true
+    nav_links:
+      - label: Home
+        url: /
+        style: link
+      - label: Portfolio
+        url: /portfolio/
+        style: link
+#      - label: Blog
+#        url: /blog/
+#        style: link
+#      - label: Style Guide
+#        url: /style-guide/
+#        style: link
+      - label: About
+        url: /about/
+        style: link
+      - label: Contact
+        url: /contact/
+        style: link
+  footer:
+    content: >-
+      &copy; pixelflow. All rights reserved, made with <3
+    has_social: true
+    social_links:
+      - label: Twitter
+        url: 'https://twitter.com/dan_pixelflow'
+        style: icon
+        icon: twitter
+        new_window: true
+      - label: Instagram
+        url: 'https://www.instagram.com/pixelflow.jpg'
+        style: icon
+        icon: instagram
+        new_window: true
+      - label: Dribbble
+        url: 'https://dribbble.com/pixelflow'
+        style: icon
+        icon: dribbble
+        new_window: true
+      - label: GitHub
+        url: 'https://www.github.com/pixelflowxyz'
+        style: icon
+        icon: github
+        new_window: true
+  domain: 'https://splendid-steel-25d9.netlify.app'
+taxonomies:
+  stub: stub
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
