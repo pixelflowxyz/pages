@@ -1,8 +1,14 @@
 title: pixelflow
 baseURL: /
 params:
+  google_fonts:
+    - - Inter
+      - '400, 700'
+    - - Fira Code
+      - '400, 400i, 700, 700i'
+  heading_font: Inter
   color_scheme: light
-  accent_color: red
+  accent_color: blue
   header:
     title: pixelflow
     has_nav: true

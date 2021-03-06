@@ -176,7 +176,7 @@ table {
  * General
  */
 html {
-  font-family: "Karla", sans-serif;
+  font-family: "Inter", sans-serif;
   font-size: 112.5%;
   height: 100%;
   min-height: 100%; }
@@ -196,14 +196,14 @@ body {
 
 a {
   border-bottom: 1px solid currentColor;
-  color: #d8195e;
+  color: #0059ff;
   text-decoration: none;
   -webkit-transition: .3s ease;
   transition: .3s ease; }
   .accent-green a {
     color: #0da5b1; }
   .accent-blue a {
-    color: #0c8aea; }
+    color: #ff4e4e; }
   .accent-violet a {
     color: #7c43a8; }
   .accent-yellow a {
@@ -299,7 +299,7 @@ blockquote {
   blockquote:first-child {
     margin-top: 0; }
   blockquote:before {
-    color: #d8195e;
+    color: #0059ff;
     content: "\201C";
     font-size: 2.5em;
     left: 0;
@@ -309,7 +309,7 @@ blockquote {
     .accent-green blockquote:before {
       color: #0da5b1; }
     .accent-blue blockquote:before {
-      color: #0c8aea; }
+      color: #ff4e4e; }
     .accent-violet blockquote:before {
       color: #7c43a8; }
     .accent-yellow blockquote:before {
@@ -406,7 +406,7 @@ img {
   border: 0;
   border-radius: 0;
   box-sizing: border-box;
-  color: #d8195e;
+  color: #0059ff;
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
@@ -425,7 +425,7 @@ img {
   .accent-green .button {
     color: #0da5b1; }
   .accent-blue .button {
-    color: #0c8aea; }
+    color: #ff4e4e; }
   .accent-violet .button {
     color: #7c43a8; }
   .accent-yellow .button {
@@ -448,12 +448,12 @@ img {
     border-top: 0;
     bottom: 0; }
   .button:hover, .button:focus, .button:active {
-    color: #d8195e;
+    color: #0059ff;
     outline: 0; }
     .accent-green .button:hover, .accent-green .button:focus, .accent-green .button:active {
       color: #0da5b1; }
     .accent-blue .button:hover, .accent-blue .button:focus, .accent-blue .button:active {
-      color: #0c8aea; }
+      color: #ff4e4e; }
     .accent-violet .button:hover, .accent-violet .button:focus, .accent-violet .button:active {
       color: #7c43a8; }
     .accent-yellow .button:hover, .accent-yellow .button:focus, .accent-yellow .button:active {
@@ -599,7 +599,7 @@ option {
   position: relative; }
   .form-group .animate-border {
     bottom: 0;
-    background: #d8195e;
+    background: #0059ff;
     height: 2px;
     left: 0;
     position: absolute;
@@ -609,7 +609,7 @@ option {
     .accent-green .form-group .animate-border {
       background: #0da5b1; }
     .accent-blue .form-group .animate-border {
-      background: #0c8aea; }
+      background: #ff4e4e; }
     .accent-violet .form-group .animate-border {
       background: #7c43a8; }
     .accent-yellow .form-group .animate-border {
@@ -748,7 +748,7 @@ option {
 .line-top {
   position: relative; }
   .line-top:before {
-    border-left: 45px solid #d8195e;
+    border-left: 45px solid #0059ff;
     content: "";
     display: block;
     height: 3px;
@@ -756,7 +756,7 @@ option {
     .accent-green .line-top:before {
       border-left-color: #0da5b1; }
     .accent-blue .line-top:before {
-      border-left-color: #0c8aea; }
+      border-left-color: #ff4e4e; }
     .accent-violet .line-top:before {
       border-left-color: #7c43a8; }
     .accent-yellow .line-top:before {
@@ -863,13 +863,13 @@ option {
   margin: 0;
   text-transform: uppercase; }
   .site-title a {
-    background: #d8195e;
+    background: #0059ff;
     display: inline-block;
     padding: 0.2em 0.45em; }
     .accent-green .site-title a {
       background: #0da5b1; }
     .accent-blue .site-title a {
-      background: #0c8aea; }
+      background: #ff4e4e; }
     .accent-violet .site-title a {
       background: #7c43a8; }
     .accent-yellow .site-title a {
@@ -884,11 +884,11 @@ option {
   font-size: 16px;
   line-height: 1.2; }
   .menu-item.current-menu-item {
-    color: #d8195e; }
+    color: #0059ff; }
     .accent-green .menu-item.current-menu-item {
       color: #0da5b1; }
     .accent-blue .menu-item.current-menu-item {
-      color: #0c8aea; }
+      color: #ff4e4e; }
     .accent-violet .menu-item.current-menu-item {
       color: #7c43a8; }
     .accent-yellow .menu-item.current-menu-item {
@@ -897,11 +897,11 @@ option {
     border: 0;
     color: inherit; }
     .menu-item a:not(.button):hover {
-      color: #d8195e; }
+      color: #0059ff; }
       .accent-green .menu-item a:not(.button):hover {
         color: #0da5b1; }
       .accent-blue .menu-item a:not(.button):hover {
-        color: #0c8aea; }
+        color: #ff4e4e; }
       .accent-violet .menu-item a:not(.button):hover {
         color: #7c43a8; }
       .accent-yellow .menu-item a:not(.button):hover {
@@ -1327,7 +1327,7 @@ option {
 /* Portfolio section */
 .view-all-button {
   box-sizing: border-box;
-  color: #d8195e;
+  color: #0059ff;
   display: inline-block;
   font-size: 16px;
   font-weight: bold;
@@ -1342,13 +1342,13 @@ option {
   .accent-green .view-all-button {
     color: #0da5b1; }
   .accent-blue .view-all-button {
-    color: #0c8aea; }
+    color: #ff4e4e; }
   .accent-violet .view-all-button {
     color: #7c43a8; }
   .accent-yellow .view-all-button {
     color: #ed9700; }
   .view-all-button:before, .view-all-button:after {
-    border: 2px solid #d8195e;
+    border: 2px solid #0059ff;
     box-sizing: border-box;
     content: "";
     height: 32%;
@@ -1360,7 +1360,7 @@ option {
     .accent-green .view-all-button:before, .accent-green .view-all-button:after {
       border-color: #0da5b1; }
     .accent-blue .view-all-button:before, .accent-blue .view-all-button:after {
-      border-color: #0c8aea; }
+      border-color: #ff4e4e; }
     .accent-violet .view-all-button:before, .accent-violet .view-all-button:after {
       border-color: #7c43a8; }
     .accent-yellow .view-all-button:before, .accent-yellow .view-all-button:after {
@@ -1431,11 +1431,11 @@ option {
 .site-footer a:not(.button) {
   color: inherit; }
   .site-footer a:not(.button):hover, .site-footer a:not(.button):focus {
-    color: #d8195e; }
+    color: #0059ff; }
     .accent-green .site-footer a:not(.button):hover, .accent-green .site-footer a:not(.button):focus {
       color: #0da5b1; }
     .accent-blue .site-footer a:not(.button):hover, .accent-blue .site-footer a:not(.button):focus {
-      color: #0c8aea; }
+      color: #ff4e4e; }
     .accent-violet .site-footer a:not(.button):hover, .accent-violet .site-footer a:not(.button):focus {
       color: #7c43a8; }
     .accent-yellow .site-footer a:not(.button):hover, .accent-yellow .site-footer a:not(.button):focus {
