@@ -1,10 +1,10 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Some of my work.
 layout_style: mosaic
 seo:
   title: Portfolio
-  description: This is the portfolio page
+  description: Some of my work.
   extra:
     - name: 'og:type'
       value: website
@@ -13,7 +13,7 @@ seo:
       value: Portfolio
       keyName: property
     - name: 'og:description'
-      value: This is the portfolio page
+      value: Some of my work.
       keyName: property
     - name: 'og:image'
       value: images/1.jpg
@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:title'
       value: Portfolio
     - name: 'twitter:description'
-      value: This is the portfolio page
+      value: Some of my work.
     - name: 'twitter:image'
       value: images/1.jpg
       relativeUrl: true

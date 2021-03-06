@@ -17,7 +17,7 @@ sections:
     title: Recent Work
     subtitle: 
     projects_number: 6
-    view_all_label: View All
+    view_all_label: View all.
     view_all_url: portfolio
   # - section_id: services
   #   type: section_grid
@@ -81,30 +81,23 @@ sections:
   #       url: blog
   #       style: button
 seo:
-  title: Stackbit Exto Theme
-  description: The preview of the Exto theme
+  title: pixelflow
+  description: Work I've done.
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Exto Theme
+      value: pixelflow
       keyName: property
     - name: 'og:description'
-      value: The preview of the Exto theme
+      value: My website.
       keyName: property
-    - name: 'og:image'
-      value: images/exto_preview.png
-      keyName: property
-      relativeUrl: true
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Exto Theme
+      value: pixelflow
     - name: 'twitter:description'
-      value: The preview of the Exto theme
-    - name: 'twitter:image'
-      value: images/exto_preview.png
-      relativeUrl: true
+      value: My website.
 layout: advanced
 ---

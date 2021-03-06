@@ -5,7 +5,7 @@ sections:
   - section_id: contact-form
     type: section_form
     content: >-
-      Hi there! Thank you so much for your interest in working together. Please
+      Hi! Let's talk: please
       fill the contact form below or send us an email at
       [example@example.com](mailto:example@example.com).
     form_id: contactForm
