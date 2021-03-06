@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Dan'
+    title: 'Hi, I''m Dan!'
     content: >-
       I design things sometimes.
     actions:
