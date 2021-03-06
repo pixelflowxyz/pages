@@ -23,7 +23,7 @@
             <meta {{ $key_name }}="{{ $meta.name }}" content="{{ $meta.value }}">
           {{ end }}
         {{ end }}
-        <link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&display=swap" rel="stylesheet"> 
+        <link href="https://fonts.googleapis.com/css?family=Inter:400,400i,700,700i&display=swap" rel="stylesheet"> 
         <link rel="stylesheet" href="{{ (resources.Get "sass/main.scss" | resources.ToCSS (dict "indentWidth" 4 "outputStyle" "nested" "precision" 10 "targetPath" "css/main.css")).Permalink }}">
         {{ if .Site.Params.favicon }}
         <link rel="icon" href="{{ $.Site.Params.favicon | relURL }}">
