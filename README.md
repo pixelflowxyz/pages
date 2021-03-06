@@ -1,6 +1,6 @@
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
+*** that would make this better, please fork the pages and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
@@ -43,7 +43,7 @@
     <br />
     <a href="https://staging.pixelflow.xyz">View Demo</a>
     ·
-    <a href="https://github.com/pixelflowxyz/pages/issues">Report an issue!</a>
+    <a href="https://github.com/pixelflowxyz/pages/issues">pagesrt an issue!</a>
     ·
     <a href="https://github.com/pixelflowxyz/pages/issues">Request a change!</a>
   </p>
@@ -115,15 +115,15 @@ Project Link: [https://github.com/pixelflowxyz/pages](https://github.com/pixelfl
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/pixelflowxyz/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/pixelflowxyz/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/pixelflowxyz/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/pixelflowxyz/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/pixelflowxyz/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/pixelflowxyz/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/pixelflowxyz/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/pixelflowxyz/repo/issues
-[license-shield]: https://img.shields.io/github/license/pixelflowxyz/repo.svg?style=for-the-badge
-[license-url]: https://github.com/pixelflowxyz/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/pixelflowxyz/pages.svg?style=for-the-badge
+[contributors-url]: https://github.com/pixelflowxyz/pages/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/pixelflowxyz/pages.svg?style=for-the-badge
+[forks-url]: https://github.com/pixelflowxyz/pages/network/members
+[stars-shield]: https://img.shields.io/github/stars/pixelflowxyz/pages.svg?style=for-the-badge
+[stars-url]: https://github.com/pixelflowxyz/pages/stargazers
+[issues-shield]: https://img.shields.io/github/issues/pixelflowxyz/pages.svg?style=for-the-badge
+[issues-url]: https://github.com/pixelflowxyz/pages/issues
+[license-shield]: https://img.shields.io/github/license/pixelflowxyz/pages.svg?style=for-the-badge
+[license-url]: https://github.com/pixelflowxyz/pages/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/pixelflowxyz
