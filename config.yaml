@@ -28,12 +28,9 @@ params:
       - label: About
         url: /about/
         style: link
-      - label: Contact
-        url: /contact/
-        style: link
   footer:
     content: >-
-      &copy; pixelflow. All rights reserved, made with <3
+      Made with <a href="https://pages.cloudflare.com/">Cloudflare Pages</a> and <3, by pixelflow.
     has_social: true
     social_links:
       - label: Twitter
@@ -56,7 +53,7 @@ params:
         style: icon
         icon: github
         new_window: true
-  domain: 'https://splendid-steel-25d9.netlify.app'
+  domain: 'https://pixelflow.xyz'
 taxonomies:
   stub: stub
 disableKinds:
