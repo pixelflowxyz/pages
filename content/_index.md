@@ -7,15 +7,10 @@ sections:
     title: 'Hi, I''m Dan!'
     content: >-
       I design things sometimes.
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: 
     projects_number: 6
     view_all_label: View all.
     view_all_url: portfolio

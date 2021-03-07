@@ -1,7 +1,7 @@
 ---
 title: kruger
 date: '2021-03-03'
-thumb_image: images/portfolio/kruger/hero.png
+thumb_image: images/portfolio/kruger/hero.jpg
 thumb_image_alt: 'Kruger'
 seo:
   title: Kruger
@@ -17,7 +17,7 @@ seo:
       value: Kruger
       keyName: property
     - name: 'og:image'
-      value: images/kruger/hero.png
+      value: images/kruger/hero.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,18 +27,18 @@ seo:
     - name: 'twitter:description'
       value: Kruger
     - name: 'twitter:image'
-      value: images/kruger/hero.png
+      value: images/kruger/hero.jpg
       relativeUrl: true
 layout: project
 ---
 
 ### Barbara Kruger.
 
-![1](/images/portfolio/kruger/1.png)
-![2](/images/portfolio/kruger/2.png)
-![3](/images/portfolio/kruger/3.png)
-![4](/images/portfolio/kruger/4.png)
-![5](/images/portfolio/kruger/5.png)
-![6](/images/portfolio/kruger/6.png)
-![7](/images/portfolio/kruger/7.png)
-![7](/images/portfolio/kruger/8.png)
+![1](/images/portfolio/kruger/1.jpg)
+![2](/images/portfolio/kruger/2.jpg)
+![3](/images/portfolio/kruger/3.jpg)
+![4](/images/portfolio/kruger/4.jpg)
+![5](/images/portfolio/kruger/5.jpg)
+![6](/images/portfolio/kruger/6.jpg)
+![7](/images/portfolio/kruger/7.jpg)
+![7](/images/portfolio/kruger/8.jpg)

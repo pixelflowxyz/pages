@@ -1,7 +1,7 @@
 ---
 title: DOOM
 date: '2021-03-03'
-thumb_image: images/portfolio/DOOM/doom.png
+thumb_image: images/portfolio/DOOM/doom.jpg
 thumb_image_alt: 'DOOM'
 seo:
   title: DOOM
@@ -17,7 +17,7 @@ seo:
       value: DOOM
       keyName: property
     - name: 'og:image'
-      value: images/DOOM/doom.png
+      value: images/DOOM/doom.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,9 +27,9 @@ seo:
     - name: 'twitter:description'
       value: DOOM
     - name: 'twitter:image'
-      value: images/DOOM/doom.png
+      value: images/DOOM/doom.jpg
       relativeUrl: true
 layout: project
 ---
 ### Rest in peace, DOOM.
-![1](/images/portfolio/DOOM/doom.png)
+![1](/images/portfolio/DOOM/doom.jpg)

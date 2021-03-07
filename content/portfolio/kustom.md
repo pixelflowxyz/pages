@@ -1,7 +1,7 @@
 ---
 title: kustom
 date: '2021-03-03'
-thumb_image: images/portfolio/kustom/red.png
+thumb_image: images/portfolio/kustom/red.jpg
 thumb_image_alt: 'kustom'
 seo:
   title: kustom
@@ -17,7 +17,7 @@ seo:
       value: kustom
       keyName: property
     - name: 'og:image'
-      value: images/kustom/red.png
+      value: images/kustom/red.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -27,11 +27,11 @@ seo:
     - name: 'twitter:description'
       value: kustom
     - name: 'twitter:image'
-      value: images/kustom/red.png
+      value: images/kustom/red.jpg
       relativeUrl: true
 layout: project
 ---
 
 ### Branding for Kustom Mugz.
-![1](/images/portfolio/kustom/red.png)
-![2](/images/portfolio/kustom/blue.png)
+![1](/images/portfolio/kustom/red.jpg)
+![2](/images/portfolio/kustom/blue.jpg)
