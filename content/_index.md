@@ -6,11 +6,11 @@ sections:
     type: section_hero
     title: 'Hi, I''m Dan!'
     content: >-
-      I design things sometimes.
+      I design things sometimes. Here's some of those things!
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
+    title: Portfolio
     projects_number: 6
     view_all_label: View all.
     view_all_url: portfolio
