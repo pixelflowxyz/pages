@@ -1,10 +1,10 @@
 ---
-title: Music app
+title: music app
 date: '2021-03-03'
 thumb_image: images/portfolio/musicapp/musicapp.png
-thumb_image_alt: 'Music app'
+thumb_image_alt: 'music app'
 seo:
-  title: Music app
+  title: music app
   description: A music app design, featuring MF Doom.
   extra:
     - name: 'og:type'
