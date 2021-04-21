@@ -33,5 +33,5 @@ layout: project
 ---
 ### A music app design, featuring MF Doom.
 
-# You can see how I made this on [Figma Community!](https://www.figma.com/community/file/966794456544143119/MF-DOOM-Music-app-%5BVariants%5D)
+#### You can see how I made this on [Figma Community!](https://www.figma.com/community/file/966794456544143119/MF-DOOM-Music-app-%5BVariants%5D)
 ![1](/images/portfolio/musicapp/musicapp.png)
