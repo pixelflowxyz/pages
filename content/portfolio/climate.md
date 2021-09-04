@@ -4,8 +4,8 @@ date: '2021-09-04'
 thumb_image: images/portfolio/climate/rhinestone.png
 thumb_image_alt: 'Climate'
 seo:
-  title: Kruger
-  description: Kruger
+  title: climate
+  description: climate
   extra:
     - name: 'og:type'
       value: website
@@ -32,6 +32,4 @@ seo:
 layout: project
 ---
 
-### Climate.
-
-![1](images/portfolio/climate/rhinestone.png)
+![1](/images/portfolio/climate/rhinestone.png)
